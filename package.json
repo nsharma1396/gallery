@@ -4,11 +4,11 @@
   "description": "Gatsby.js V2 starter template based on Multiverse by HTML5 UP",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-multiverse.git"
+    "url": "git+https://github.com/nsharma1396/gatsby-starter-multiverse.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Neeraj Sharma",
+    "email": "n.sharma1396@gmail.com"
   },
   "dependencies": {
     "gatsby": "^2.4.3",
@@ -45,7 +45,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-multiverse/issues"
+    "url": "https://github.com/nsharma1396/gatsby-starter-multiverse/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-multiverse#readme"
+  "homepage": "https://github.com/nsharma1396/gatsby-starter-multiverse#readme"
 }

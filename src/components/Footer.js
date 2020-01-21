@@ -9,10 +9,7 @@ export default function Footer({ onClose, isVisible }) {
         <div>
           <section>
             <h2>More about me</h2>
-            <p>
-              Part time Open source contributor. Full time Web Developer. Loves
-              to travel and shit.
-            </p>
+            <p></p>
           </section>
           <section>
             <h2>Follow me on ...</h2>
